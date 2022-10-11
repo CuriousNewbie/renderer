@@ -1,0 +1,31 @@
+<html>
+
+<head>
+    <title>Renderer</title>
+    <style>
+        canvas {
+            border: 1px red solid;
+        }
+    </style>
+</head>
+
+<body>
+
+    <label>Choose 3d model file
+        <input type="file" id="objInput" accept=".obj">
+    </label>
+    <br>
+    <label>Choose texture file
+        <input type="file" id="textureInput" accept=".tga">
+    </label>
+    <br>
+    <button id="start">RENDER!!!</button>
+    <br>
+
+    <canvas width="1000" height="1000" id='c1'></canvas>
+
+    <script src="out.js"></script>
+
+</body>
+
+</html>
