@@ -1,6 +1,6 @@
 # renderer
 Simple 3d renderer on js
-This renderer is JS implementation of the code from [ssloy tinyrenderer]([https://www.example.com](https://github.com/ssloy/tinyrenderer)) code.
+This renderer is JS implementation of the code from [ssloy tinyrenderer](https://github.com/ssloy/tinyrenderer) code.
 
 Run `npm install` to install dependencies - browserify for building.
 Run `npm run build` to bundle code.
